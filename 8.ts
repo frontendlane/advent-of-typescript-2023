@@ -1,7 +1,7 @@
+// TS playground link: https://tsplay.dev/advent-of-typescript-2023-8
+
 // Filtering The Children (part 3)
-
 // Yet again, Santa has made a request to change the children filtering code. This time he just sent an email to the entire engineering team (which is absolutely not the process, but since Santa is sometimes a bit difficult to communicate with, no one has yet had the courage to tell him). Here's the contents of the email.
-
 // POST /sendmail HTTP/1.1
 // Host: mail.hohoholdings.com
 // Content-Type: text/plain; charset=utf-8

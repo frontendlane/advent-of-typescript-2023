@@ -1,5 +1,6 @@
-// Filtering The Children (part 1)
+// TS playground link: https://tsplay.dev/advent-of-typescript-2023-6
 
+// Filtering The Children (part 1)
 // As you may be aware, kids that are naughty get a lump of coal and kids that are nice get a toy. Santa's sorta controlling, honestly, and he likes being able to manipulate the data by filtering out the naughty kids on some days, and filtering out the nice kids on other days.
 // So, Santa walks over to the (open floorplan) office where the engineering team sits. Although he's just addressing the engineers, the rest of the office is distracted because they can clearly hear him since there are no walls.
 //     [Santa] You know, this job is a great opportunity for you elves, even without high pay! You're gaining valuable experience, which is more important than money!

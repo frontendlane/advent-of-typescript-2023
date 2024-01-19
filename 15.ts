@@ -1,3 +1,5 @@
+// TS playground link: https://tsplay.dev/advent-of-typescript-2023-15
+
 // Box The Toys!
 // [Santa walks by as Bernard, the head elf, is yelling at the other elves..]
 //     [Bernard (to his staff)] LET'S GO ELVES! LET'S GO! KEEP BOXING TOYS!

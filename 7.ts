@@ -1,3 +1,5 @@
+// TS playground link: https://tsplay.dev/advent-of-typescript-2023-7
+
 // Filtering The Children (part 2)
 // [transcript of a slack conversation at 11:23pm between Santa and Chipper (one of the elves that worked on the filtering code from yesterday)]
 //     [Santa] We've got a big problem. That code that you gave me yesterday doesn't work!

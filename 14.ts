@@ -1,3 +1,5 @@
+// TS playground link: https://tsplay.dev/advent-of-typescript-2023-14
+
 // Naughty List Decipher
 // [early on the morning of Thursday December 14th, Santa stumbles into office greeted by Bernard, the head elf..]
 //     [Bernard] YOU'RE A MESS. Were you out partying.. on a WEDNESDAY?? AGAIN??!!!

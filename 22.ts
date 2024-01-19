@@ -1,3 +1,5 @@
+// TS playground link: https://tsplay.dev/advent-of-typescript-2023-22
+
 // Reindeer Sudoku
 // Santa's reindeer sure do like to cause trouble! This time they've decided to make a game out of arranging themselves into a Sudoku board.
 // Before arranging themselves in this configuration, the reindeer left Santa a foreboding message:

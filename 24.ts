@@ -1,3 +1,5 @@
+// TS playground link: https://tsplay.dev/advent-of-typescript-2023-24
+
 // Santa is stuck!
 // Santa is craving cookies! But Alas, he's stuck in a dense North Polar forest.
 // Implement Move so Santa ('🎅') can find his way to the end of the maze.

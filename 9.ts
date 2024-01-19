@@ -1,3 +1,5 @@
+// TS playground link: https://tsplay.dev/advent-of-typescript-2023-9
+
 // Is Santa Dyslexic?
 // [it's early Saturday morning and the team has been working overtime. Santa storms into the factory floor shouting..]
 //     [Santa] Don't you elves take any pride in your work?!?! Others would love to have your job for much less pay! I asked for a simple type that will reverse strings!! How hard is that?!? What do we even pay you for??

@@ -1,3 +1,5 @@
+// TS playground link: https://tsplay.dev/advent-of-typescript-2023-1
+
 // Christmas Cookies
 // It's December 1st! That means it's almost time for the big day! Santa has a preparation regimen that involves, of course, eating lots of delicious cookies.
 // Santa's elves have provided Santa an API whereby Santa can submit his favorite cookie flavors. This year his favorites are:

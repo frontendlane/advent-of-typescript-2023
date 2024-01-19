@@ -1,3 +1,5 @@
+// TS playground link: https://tsplay.dev/advent-of-typescript-2023-12
+
 // Find Santa
 // Strange as it may sound.. Santa went to college with someone that works at a big silicon valley networking company. They've been buddies for years. So much so that in 2023 Santa pushed the workshop's board until they approved budget to get WiFi on the entire campus. That way Santa can browse TikTok as he walks from building to building across the campus.
 // But after all that doomscrolling, Santa realized he has lost himself in a Christmas tree forest! A search team of elves has been deployed to find him, but he needs to give them more information about where he is among the trees.

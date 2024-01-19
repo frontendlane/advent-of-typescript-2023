@@ -1,3 +1,5 @@
+// TS playground link: https://tsplay.dev/advent-of-typescript-2023-10
+
 // Christmas Street Suffix Tester
 // It's a little known fact that Santa's reindeer are orienteering experts. They're very particular, actually.
 // To do this work well, they need to do some basic validation on the addresses. There were hopes among some reindeer to introduce a validation library this year, but there was simply too much infighting. It's kindof a mess. You see..

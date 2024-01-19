@@ -1,3 +1,5 @@
+// TS playground link: https://tsplay.dev/advent-of-typescript-2023-4
+
 // Christmas Present Delivery Addresses
 // [a conversation in the North Pole kitchenette on the morning of December 4th between Santa and the head elf, Bernard]
 //     [Bernard] This is bullshit, Kris. I've been leading the Elves for 200+ years. Don't you trust that I know what I'm talking about?? WE NEED TO GROW THE TEAM. We're running a skeleton-crew here.

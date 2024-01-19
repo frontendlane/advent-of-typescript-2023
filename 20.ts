@@ -1,3 +1,5 @@
+// TS playground link: https://tsplay.dev/advent-of-typescript-2023-20
+
 // TypeScript ASCII Art!
 // Your goal for this challenge is to take an input like Hi and turn it into ASCII art!
 // So for example Hi would turn into:

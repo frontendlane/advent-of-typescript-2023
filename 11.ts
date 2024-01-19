@@ -1,3 +1,5 @@
+// TS playground link: https://tsplay.dev/advent-of-typescript-2023-11
+
 // Protect the List
 // [a conversation overhead two elves, Wunorse and Alabaster, at Santa's workshop on a monday morning after all the elves were forced to work all weekend]
 //     [Wurnose] The world will not know peace until every consultant involved in pushing SOC2 is dead and in the ground.
